@@ -45,9 +45,11 @@
 
 ## 사용 기술
 1. 분석
+- LDA, TF-IDF, 
 2. 워드 임베딩
+- word2vec, elmo, bert
 3. 분류
-
+- CNN, LR
 
 ## 데이터
 
